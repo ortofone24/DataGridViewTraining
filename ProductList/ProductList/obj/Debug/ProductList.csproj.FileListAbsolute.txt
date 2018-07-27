@@ -1,0 +1,40 @@
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\bin\Debug\ProductList.exe.config
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\bin\Debug\ProductList.exe
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\bin\Debug\ProductList.pdb
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\obj\Debug\ProductList.csprojResolveAssemblyReference.cache
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\obj\Debug\ProductList.Form1.resources
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\obj\Debug\ProductList.Properties.Resources.resources
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\obj\Debug\ProductList.csproj.GenerateResource.Cache
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\obj\Debug\ProductList.csproj.CoreCompileInputs.cache
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\obj\Debug\ProductList.exe
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\obj\Debug\ProductList.pdb
+C:\Users\Sebby\Desktop\ProductList\ProductList\bin\Debug\ProductList.exe.config
+C:\Users\Sebby\Desktop\ProductList\ProductList\bin\Debug\ProductList.exe
+C:\Users\Sebby\Desktop\ProductList\ProductList\bin\Debug\ProductList.pdb
+C:\Users\Sebby\Desktop\ProductList\ProductList\obj\Debug\ProductList.csprojResolveAssemblyReference.cache
+C:\Users\Sebby\Desktop\ProductList\ProductList\obj\Debug\ProductList.Form1.resources
+C:\Users\Sebby\Desktop\ProductList\ProductList\obj\Debug\ProductList.Properties.Resources.resources
+C:\Users\Sebby\Desktop\ProductList\ProductList\obj\Debug\ProductList.csproj.GenerateResource.Cache
+C:\Users\Sebby\Desktop\ProductList\ProductList\obj\Debug\ProductList.csproj.CoreCompileInputs.cache
+C:\Users\Sebby\Desktop\ProductList\ProductList\obj\Debug\ProductList.exe
+C:\Users\Sebby\Desktop\ProductList\ProductList\obj\Debug\ProductList.pdb
+D:\Programy\Microsoft Visual Studio\Projects\ProductList\ProductList\bin\Debug\ProductList.exe.config
+D:\Programy\Microsoft Visual Studio\Projects\ProductList\ProductList\bin\Debug\ProductList.exe
+D:\Programy\Microsoft Visual Studio\Projects\ProductList\ProductList\bin\Debug\ProductList.pdb
+D:\Programy\Microsoft Visual Studio\Projects\ProductList\ProductList\obj\Debug\ProductList.csprojResolveAssemblyReference.cache
+D:\Programy\Microsoft Visual Studio\Projects\ProductList\ProductList\obj\Debug\ProductList.Form1.resources
+D:\Programy\Microsoft Visual Studio\Projects\ProductList\ProductList\obj\Debug\ProductList.Properties.Resources.resources
+D:\Programy\Microsoft Visual Studio\Projects\ProductList\ProductList\obj\Debug\ProductList.csproj.GenerateResource.Cache
+D:\Programy\Microsoft Visual Studio\Projects\ProductList\ProductList\obj\Debug\ProductList.csproj.CoreCompileInputs.cache
+D:\Programy\Microsoft Visual Studio\Projects\ProductList\ProductList\obj\Debug\ProductList.exe
+D:\Programy\Microsoft Visual Studio\Projects\ProductList\ProductList\obj\Debug\ProductList.pdb
+D:\Marcin Gala\DataGridView\ProductList\ProductList\bin\Debug\ProductList.exe.config
+D:\Marcin Gala\DataGridView\ProductList\ProductList\bin\Debug\ProductList.exe
+D:\Marcin Gala\DataGridView\ProductList\ProductList\bin\Debug\ProductList.pdb
+D:\Marcin Gala\DataGridView\ProductList\ProductList\obj\Debug\ProductList.csprojAssemblyReference.cache
+D:\Marcin Gala\DataGridView\ProductList\ProductList\obj\Debug\ProductList.Form1.resources
+D:\Marcin Gala\DataGridView\ProductList\ProductList\obj\Debug\ProductList.Properties.Resources.resources
+D:\Marcin Gala\DataGridView\ProductList\ProductList\obj\Debug\ProductList.csproj.GenerateResource.cache
+D:\Marcin Gala\DataGridView\ProductList\ProductList\obj\Debug\ProductList.csproj.CoreCompileInputs.cache
+D:\Marcin Gala\DataGridView\ProductList\ProductList\obj\Debug\ProductList.exe
+D:\Marcin Gala\DataGridView\ProductList\ProductList\obj\Debug\ProductList.pdb

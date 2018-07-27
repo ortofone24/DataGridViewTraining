@@ -1,0 +1,9 @@
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\bin\Release\ProductList.exe.config
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\bin\Release\ProductList.exe
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\bin\Release\ProductList.pdb
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\obj\Release\ProductList.Form1.resources
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\obj\Release\ProductList.Properties.Resources.resources
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\obj\Release\ProductList.csproj.GenerateResource.Cache
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\obj\Release\ProductList.csproj.CoreCompileInputs.cache
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\obj\Release\ProductList.exe
+C:\Users\Marcin_Hania\source\repos\ProductList\ProductList\obj\Release\ProductList.pdb
