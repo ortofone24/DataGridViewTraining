@@ -1,2 +1,2 @@
 # DataGridViewTraining
-some code about DataGridView C#.NET
+some code about DataGridView C#, Win Forms
